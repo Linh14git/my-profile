@@ -1,0 +1,64 @@
+body {
+	color: black;
+	font-family: 'Playpen Sans', cursive;
+}
+
+h1, h2{
+	color: rgb(255,204,153); 
+}
+
+a {
+	color: rgb(0, 0, 0);
+	font-weight: 600;
+	font-size: 20px
+}
+
+p { color : black ;
+	font-weight: 300 ;
+	font-size : 17px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-radius: 25px 
+}
+
+button {
+	padding: 5px 10px;
+	border-radius: 40px;
+	border: solid 2px rgb(255,204,153);
+	background-color: white;
+}
+
+
+/*custum design with class*/
+
+.the-city {
+	padding : 10px 20px;
+	border-radius: 5px;
+	margin-top: 30px;
+	font-family: 'Playpen Sans', cursive;
+}
+
+.horizontal-line {
+	border: solid 1.5px rgb(255,204,153);
+}
+
+
+/*custum design with id*/
+
+#cadre {
+	margin-bottom: 10px;
+	padding: 50px;
+	background-color: rgb(254,251,234);
+	border-radius: 90px;
+	box-shadow: 2px 2px 3px black
+}
+
+.brand {
+	margin-top: 10px;
+	padding: 10px 15px;
+	
+}
